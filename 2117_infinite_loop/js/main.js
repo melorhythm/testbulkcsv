@@ -1,4 +1,4 @@
-testcsv= "https://codepen.io/roborich/pen/wpAsm";
+
 function getOffSet(){
     var _offset = 450;
     var windowHeight = window.innerHeight;
